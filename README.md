@@ -16,9 +16,11 @@
 
 
 ## 与え方
-
 * Web版:
     - Claude (web) 「アカウント」->「Claude への指示」
     - ChatGPT (web) 「パーソナライズ」->「カスタム指示」(2箇所)
-* CLI版 (codex/claude)
-    - `$PROJECTS/rc_files/rc_files/AGENTS_CLAUDE.md` に上記指示を記載し、`./rc_files/set.sh` を実行することにより、ホーム以下に配置する。
+* CLI版
+    - 以下に書き込む:
+        - Codex: ~/.codex/AGENTS.md
+        - Claude: ~/.claude/CLAUDE.md
+    - 自動でやればよい: `$PROJECTS/rc_files/rc_files/AGENTS_CLAUDE.md` に上記指示を記載し、`./rc_files/set.sh` を実行する。
