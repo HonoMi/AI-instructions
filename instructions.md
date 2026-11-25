@@ -23,10 +23,10 @@
 
 
 ## 研究関連タスクで参照する
-* [研究プロジェクトの進め方](https://github.com/HonoMi/auto-research)
+* [研究プロジェクトの進め方](https://github.com/HonoMi/auto-research/blob/honoka-dev/README.md)
 
 
 
 
 ## リポジトリを編集するタスク(実装・実験・文書執筆等)で参照する
-* [リポジトリ構成](https://github.com/HonoMi/repository-template)
+* [リポジトリ構成](https://github.com/HonoMi/repository-template/blob/honoka-dev/README.md)
