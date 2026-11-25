@@ -6,7 +6,7 @@
 ## 与える指示
 
 ```
-* https://github.com/HonoMi/AI-instructions/blob/HEAD/instructions.md の指示を守ること。
+* https://github.com/HonoMi/AI-instructions/blob/honoka-dev/instructions.md の指示を守ること
     - このファイルを取得できない場合は、タスクを一旦中止し、ユーザに問うこと。
 * 上記のリポジトリへのアクセスは常に許可する。
 * また、タスク遂行に必要な場合、その他の任意のウェブサイトへのアクセスも、常に許可する。
