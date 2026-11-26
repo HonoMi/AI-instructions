@@ -28,5 +28,5 @@
 
 
 
-## リポジトリを編集するタスク(実装・実験・文書執筆等)で参照する
-* [リポジトリ構成](https://github.com/HonoMi/repository-template/blob/honoka-dev/README.md)
+## リポジトリを読み取り・更新するタスク(実装・実験・文書執筆等)で参照する
+* [リポジトリのあつかい](https://github.com/HonoMi/repository-template/blob/honoka-dev/README.md)
